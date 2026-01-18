@@ -1,4 +1,6 @@
 # Destinate-Figma-Prototype
+Destinate is a community-based travel forum for both local and global users in which they can share itineraries, discover hidden games, and discuss travel experiences in different countries. Users can share and exchange valuable traveling tips, receive personalized recommendations, and connect with fellow adventurers to create unforgettable journeys.
+
 ![Prototype GIF](images/DESTINATE2-ezgif.com-speed.gif)
 
 ## YouTube Demo Video
