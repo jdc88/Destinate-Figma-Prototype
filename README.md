@@ -11,8 +11,6 @@
 ![Screenshot 1](images/SS1.png)
 ![Screenshot 2](images/SS2.png)
 
----
-
 <hr>
 <p align="center">
   Designed & prototyped by <strong>Josephine Choi</strong><br>
