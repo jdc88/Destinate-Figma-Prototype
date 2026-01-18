@@ -10,6 +10,7 @@
 
 <hr>
 <p align="center">
-  Designed & prototyped by <strong>Josephine Choi 💜</strong><br>
-  Self-taught using <strong>Figma</strong> • <strong>UI/UX Design</strong> • <strong>Interactive Prototyping</strong>
+  Original concept, UI/UX design, and interactive prototyping by <strong>Josephine Choi 💜</strong><br>
+  Self-taught using <strong>Figma</strong> • <strong>UI/UX Design</strong> • <strong>Interactive Prototyping</strong><br>
+  Developed collaboratively with two teammates
 </p>
