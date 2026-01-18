@@ -13,6 +13,6 @@
 
 <hr>
 <p align="center">
-  Designed & prototyped by <strong>Josephine Choi</strong><br>
+  Designed & prototyped by <strong>Josephine Choi 💜</strong><br>
   Self-taught using <strong>Figma</strong> • <strong>UI/UX Design</strong> • <strong>Interactive Prototyping</strong>
 </p>
