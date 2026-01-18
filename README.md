@@ -1,7 +1,4 @@
 # Destinate-Figma-Prototype
-
----
-
 ![Prototype GIF](images/DESTINATE2-ezgif.com-speed.gif)
 
 ## YouTube Demo Video
